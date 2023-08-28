@@ -1,0 +1,8 @@
+/* styles.css or Board.css */
+
+.board-container {
+    display: flex;
+    width: 100%;
+    height: auto;
+  }
+
